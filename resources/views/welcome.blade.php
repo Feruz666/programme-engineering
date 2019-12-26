@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   uvat foreever
+                   uvat
                 </div>
 
                 <div class="links">
