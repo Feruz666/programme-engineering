@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   laaaaaappppaaaamhkmjk,
+                   uvat foreever
                 </div>
 
                 <div class="links">
